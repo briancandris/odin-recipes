@@ -13,4 +13,7 @@ Best practics:
 
 Note: this project will be built upon in the future, so it's important to set a strong foundation.
 
-... post-project refelction goes here.
+Post project reflection:
+Everything went well. Continue to focus on timing when adding files and committing. It is helpful to add one file at a time and
+commit with a tailored message. It's easy to over-do this. For example, I probably did not need to add both the file creation
+and the addition of ingredients / directions in seperate commits. It would've been better to do one and describe the contents of it.
